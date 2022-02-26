@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-02-16T15:13:55.036421Z",
+      "created": "2022-02-26T12:08:02.344501Z",
       "format": null,
-      "last_modified": "2022-02-16T15:12:53.199553Z",
+      "last_modified": "2022-02-26T12:06:56.318473Z",
       "mimetype": "text/csv",
       "name": "iris.csv",
       "path": "data/iris.csv",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-16T15:13:55.036421Z",
+      "created": "2022-02-26T12:08:02.340501Z",
       "format": null,
-      "last_modified": "2022-02-16T15:12:53.199553Z",
+      "last_modified": "2022-02-26T12:06:56.314472Z",
       "mimetype": null,
       "name": "Museums_in_DC.geojson",
       "path": "data/Museums_in_DC.geojson",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-16T15:13:55.036421Z",
+      "created": "2022-02-26T12:08:02.344501Z",
       "format": null,
-      "last_modified": "2022-02-16T15:12:53.199553Z",
+      "last_modified": "2022-02-26T12:06:56.318473Z",
       "mimetype": "application/json",
       "name": "bar.vl.json",
       "path": "data/bar.vl.json",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-02-16T15:13:55.036421Z",
+      "created": "2022-02-26T12:08:02.344501Z",
       "format": null,
-      "last_modified": "2022-02-16T15:12:53.199553Z",
+      "last_modified": "2022-02-26T12:06:56.318473Z",
       "mimetype": "image/png",
       "name": "matplotlib.png",
       "path": "data/matplotlib.png",
@@ -50,9 +50,21 @@
     },
     {
       "content": null,
-      "created": "2022-02-16T15:13:55.036421Z",
+      "created": "2022-02-26T12:08:02.344501Z",
       "format": null,
-      "last_modified": "2022-02-16T15:12:53.199553Z",
+      "last_modified": "2022-02-26T12:06:56.318473Z",
+      "mimetype": "text/csv",
+      "name": "VEGF2_ChEMBL28_10980_pic50.csv",
+      "path": "data/VEGF2_ChEMBL28_10980_pic50.csv",
+      "size": 664350,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-02-26T12:08:02.344501Z",
+      "format": null,
+      "last_modified": "2022-02-26T12:06:56.318473Z",
       "mimetype": null,
       "name": "fasta-example.fasta",
       "path": "data/fasta-example.fasta",
@@ -61,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-02-16T15:13:55.036421Z",
+  "created": "2022-02-26T12:08:02.344501Z",
   "format": "json",
-  "last_modified": "2022-02-16T15:13:55.036421Z",
+  "last_modified": "2022-02-26T12:08:02.344501Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
